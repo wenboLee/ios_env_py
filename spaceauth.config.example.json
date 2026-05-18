@@ -1,0 +1,14 @@
+{
+  "ssh": {
+    "host": "192.168.1.100",
+    "port": 22,
+    "username": "your_user",
+    "password": "your_password"
+  },
+  "fastlane": {
+    "email": "your_email@example.com"
+  },
+  "remote": {
+    "env_path": "$HOME/workspace/.env"
+  }
+}
